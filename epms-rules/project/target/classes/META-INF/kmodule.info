@@ -1,0 +1,60 @@
+<org.drools.core.rule.KieModuleMetaInfo>
+  <typeMetaInfos>
+    <entry>
+      <string>java.util.List</string>
+      <org.drools.core.rule.TypeMetaInfo>
+        <kind>CLASS</kind>
+        <role>FACT</role>
+        <isDeclaredType>false</isDeclaredType>
+      </org.drools.core.rule.TypeMetaInfo>
+    </entry>
+    <entry>
+      <string>com.jp.epms.Equipment</string>
+      <org.drools.core.rule.TypeMetaInfo>
+        <kind>CLASS</kind>
+        <role>FACT</role>
+        <isDeclaredType>false</isDeclaredType>
+      </org.drools.core.rule.TypeMetaInfo>
+    </entry>
+    <entry>
+      <string>com.jp.epms.Booking</string>
+      <org.drools.core.rule.TypeMetaInfo>
+        <kind>CLASS</kind>
+        <role>FACT</role>
+        <isDeclaredType>false</isDeclaredType>
+      </org.drools.core.rule.TypeMetaInfo>
+    </entry>
+  </typeMetaInfos>
+  <rulesByPackage>
+    <entry>
+      <string>com.jp.epms</string>
+      <set>
+        <string>Row 19 EPMS-Rule2</string>
+        <string>Row 22 EPMS-Rule2</string>
+        <string>Row 9 EPMS-Rule2</string>
+        <string>Row 5 EPMS-Rule2</string>
+        <string>Row 15 EPMS-Rule2</string>
+        <string>Row 21 EPMS-Rule2</string>
+        <string>epms-rule-1</string>
+        <string>Row 16 EPMS-Rule2</string>
+        <string>Row 12 EPMS-Rule2</string>
+        <string>Row 6 EPMS-Rule2</string>
+        <string>Row 2 EPMS-Rule2</string>
+        <string>Row 7 EPMS-Rule2</string>
+        <string>Row 14 EPMS-Rule2</string>
+        <string>Row 24 EPMS-Rule2</string>
+        <string>Row 11 EPMS-Rule2</string>
+        <string>Row 17 EPMS-Rule2</string>
+        <string>Row 3 EPMS-Rule2</string>
+        <string>Row 23 EPMS-Rule2</string>
+        <string>Row 1 EPMS-Rule2</string>
+        <string>Row 8 EPMS-Rule2</string>
+        <string>Row 13 EPMS-Rule2</string>
+        <string>Row 18 EPMS-Rule2</string>
+        <string>Row 20 EPMS-Rule2</string>
+        <string>Row 10 EPMS-Rule2</string>
+        <string>Row 4 EPMS-Rule2</string>
+      </set>
+    </entry>
+  </rulesByPackage>
+</org.drools.core.rule.KieModuleMetaInfo>
